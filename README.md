@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&pause=1500&color=7B42BC&center=true&vCenter=true&width=700&height=80&lines=👋+Hola%2C+soy+Ricardo+Edreira;📊+Data+Analyst+%26+Scientist;☁️+Big+Data+%26+Cloud+Engineer;🤖+IA+%26+Automatización" alt="Typing SVG" />
+<h1>👋 Hola, soy <span>Ricardo Edreira</span></h1>
+<h3>📊 Data Analyst &nbsp;·&nbsp; ☁️ Big Data & Cloud &nbsp;·&nbsp; 🤖 IA & Automatización</h3>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00d4aa&center=true&vCenter=true&width=650&height=50&lines=Data+Analyst+%7C+Data+Scientist;Big+Data+%26+Cloud+Engineering;Automatizacion+con+IA;Infrastructure+as+Code+con+Terraform;Transformando+datos+en+decisiones" alt="Typing SVG" />
 
 <br/>
 
