@@ -1,180 +1,227 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ricardo%20Edreira&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20Cloud%20%26%20IaC&descAlignY=55&descSize=16" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&pause=1500&color=7B42BC&center=true&vCenter=true&width=700&height=80&lines=👋+Hola%2C+soy+Ricardo+Edreira;📊+Data+Analyst+%26+Scientist;☁️+Big+Data+%26+Cloud+Engineer;🤖+IA+%26+Automatización" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Conéctemos)](https://www.linkedin.com/in/ricardoedreira)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Escríbeme)](mailto:1ricardox@gmail.com)
+[![Portfolio](https://img.shields.io/badge/GitHub%20Pages-7B42BC?style=for-the-badge&logo=githubpages&logoColor=white&label=Portfolio)](https://ricardoedreirapenas.github.io/Guia-estudio-terraform)
+[![Visitas](https://komarev.com/ghpvc/?username=RicardoEdreiraPenas&style=for-the-badge&color=00d4aa&label=Visitas)](https://github.com/RicardoEdreiraPenas)
+
+<br/>
+
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 </div>
 
+## 🧬 &nbsp; `whoami`
+
+```python
+class RicardoEdreira:
+
+    nombre     = "Ricardo Edreira Penas"
+    rol        = ["Data Analyst", "Data Scientist", "Cloud Engineer"]
+    ubicacion  = "Valencia, España 🇪🇸"
+    formacion  = "Máster Big Data & Cloud — EDEM Escuela de Empresarios"
+    disponible = True  # ✅ Abierto a nuevas oportunidades
+    idiomas    = {"Español": "Nativo", "Inglés": "B2"}
+    fortalezas = ["Resiliencia", "Trabajo bajo presión", "Equipos multidisciplinares"]
+
+    def contactar(self):
+        return "1ricardox@gmail.com 📬"
+```
+
+<br/>
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B42BC&center=true&vCenter=true&width=600&lines=Transformando+datos+en+decisiones+%F0%9F%93%8A;Big+Data+%7C+Cloud+%7C+IA+aplicada+%E2%98%81%EF%B8%8F;AWS+%7C+Azure+%7C+GCP+%7C+Terraform+%F0%9F%8F%97%EF%B8%8F;Python+%7C+SQL+%7C+PySpark+%7C+Kafka+%F0%9F%90%8D" alt="Typing SVG" />
-  </a>
+
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+</div>
+
+## 💼 &nbsp; Trayectoria Profesional
+
+<br/>
+
+> 🟣 **2025 – 2026** &nbsp;|&nbsp; 🏢 **Data Analyst & Especialista en Automatización** &nbsp;@&nbsp; `SUMEDEX, S.A.`
+
+&nbsp;&nbsp;&nbsp;&nbsp;`🔹` Lideré la **transformación digital** implementando asistentes de IA para automatizar procesos operativos  
+&nbsp;&nbsp;&nbsp;&nbsp;`🔹` Diseñé y optimicé BBDD corporativas garantizando **100% de trazabilidad**  
+&nbsp;&nbsp;&nbsp;&nbsp;`🔹` Estrategias **SEO data-driven** con impacto directo en tráfico orgánico y UX
+
+---
+
+> 🔵 **2023 – 2025** &nbsp;|&nbsp; 🏛️ **Analista de Documentación** &nbsp;@&nbsp; `Generalitat Valenciana`
+
+&nbsp;&nbsp;&nbsp;&nbsp;`🔹` Administré BBDD críticas del Centro de Valoración de la Discapacidad  
+&nbsp;&nbsp;&nbsp;&nbsp;`🔹` Digitalización masiva y gobierno del dato con cumplimiento **GDPR**  
+&nbsp;&nbsp;&nbsp;&nbsp;`🔹` Optimización de flujos de información reduciendo tiempos de acceso
+
+---
+
+> 🟢 **2021 – 2022** &nbsp;|&nbsp; 🔬 **Data Research Intern** &nbsp;@&nbsp; `AIMPLAS`
+
+&nbsp;&nbsp;&nbsp;&nbsp;`🔹` Gestión de BBDD sectoriales en entornos **MySQL y Microsoft Azure**  
+&nbsp;&nbsp;&nbsp;&nbsp;`🔹` Análisis de tendencias en el Departamento de **Inteligencia Competitiva**  
+&nbsp;&nbsp;&nbsp;&nbsp;`🔹` Informes técnicos para respaldo de decisiones estratégicas de directiva
+
+<br/>
+
+<div align="center">
+
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+</div>
+
+## ⚡ &nbsp; Stack Tecnológico
+
+<br/>
+
+<div align="center">
+
+### ☁️ &nbsp; Cloud & Infrastructure as Code
+
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+<br/>
+
+### 🐍 &nbsp; Lenguajes & Big Data
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
+<br/>
+
+### 🗄️ &nbsp; Bases de Datos
+
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+<br/>
+
+### 📊 &nbsp; Business Intelligence
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+<br/>
+
+### 🤖 &nbsp; Inteligencia Artificial
+
+![OpenAI](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM_AI-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ricardoedreira">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:1ricardox@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://ricardoedreirapenas.github.io/Guia-estudio-terraform">
-    <img src="https://img.shields.io/badge/Portfolio-Ver_Proyecto-7B42BC?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=RicardoEdreiraPenas&style=for-the-badge&color=7B42BC&label=VISITAS"/>
-</div>
 
----
-
-## 🧠 Sobre mí
-
-```yaml
-nombre:       Ricardo Edreira Penas
-rol:          Data Analyst & Data Scientist
-ubicacion:    Valencia, España 🇪🇸
-formacion:    Máster Big Data & Cloud — EDEM Escuela de Empresarios
-disponible:   true ✅
-idiomas:      [Español (nativo), Inglés (B2)]
-```
-
-> Especialista en Datos e IA con experiencia real en transformación digital, automatización de procesos con IA y arquitectura Cloud.
-> Combino **visión analítica** con **ejecución técnica** para convertir datos en ventaja competitiva.
-> Capaz de trabajar bajo presión, con historial demostrado compaginando Máster + trabajo a tiempo completo.
-
----
-
-## ⚡ Stack Tecnológico
-
-<div align="center">
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🐍 Lenguajes & Big Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-
-### 🗄️ Bases de Datos
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-### 📊 Visualización & BI
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-### 🤖 Inteligencia Artificial
-![OpenAI](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white)
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 </div>
 
----
+## 🎓 &nbsp; Formación Académica
 
-## 💼 Experiencia Profesional
+<br/>
 
-<table>
-  <tr>
-    <td width="60px" align="center">🏢</td>
-    <td>
-      <strong>Data Analyst & Especialista en Automatización</strong> · SUMEDEX, S.A.<br/>
-      <sub>2025 – 2026</sub><br/><br/>
-      ✦ Lideré la <strong>transformación digital</strong> de la compañía implementando asistentes virtuales con IA<br/>
-      ✦ Diseñé y optimicé BBDD corporativas garantizando <strong>100% de trazabilidad</strong><br/>
-      ✦ Estrategias <strong>SEO basadas en datos</strong> para incremento de tráfico orgánico
-    </td>
-  </tr>
-  <tr><td colspan="2"><br/></td></tr>
-  <tr>
-    <td width="60px" align="center">🏛️</td>
-    <td>
-      <strong>Técnico de Archivo / Analista de Documentación</strong> · Generalitat Valenciana<br/>
-      <sub>2023 – 2025</sub><br/><br/>
-      ✦ Administré BBDD críticas del Centro de Valoración de la Discapacidad<br/>
-      ✦ Proyectos de <strong>digitalización masiva</strong> y gobierno del dato con cumplimiento <strong>GDPR</strong><br/>
-      ✦ Optimización de flujos de información reduciendo tiempos de acceso
-    </td>
-  </tr>
-  <tr><td colspan="2"><br/></td></tr>
-  <tr>
-    <td width="60px" align="center">🔬</td>
-    <td>
-      <strong>Data Research Intern</strong> · AIMPLAS<br/>
-      <sub>2021 – 2022</sub><br/><br/>
-      ✦ Gestión de BBDD sectoriales en entornos <strong>MySQL y Microsoft Azure</strong><br/>
-      ✦ Análisis de tendencias de mercado en Departamento de Inteligencia Competitiva<br/>
-      ✦ Informes técnicos para respaldo de decisiones estratégicas de directiva
-    </td>
-  </tr>
-</table>
+| &nbsp; | Título | Institución |
+|:---:|---|---|
+| 🥇 | **Máster en Big Data & Cloud** *(Analytics & Data Engineering)* | EDEM Escuela de Empresarios |
+| 🎓 | Grado en Información y Documentación | Universitat de València |
+| 📜 | Relaciones Industriales | U. Católica Andrés Bello |
 
----
-
-## 🎓 Formación
+<br/>
 
 <div align="center">
 
-| 🏅 Título | 🏫 Institución |
-|-----------|---------------|
-| Máster en Big Data & Cloud (Analytics & Data Engineering) | EDEM Escuela de Empresarios |
-| Grado en Información y Documentación | Universitat de València |
-| Relaciones Industriales | U. Católica Andrés Bello |
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 </div>
 
----
+## 📊 &nbsp; GitHub Stats
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=RicardoEdreiraPenas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B42BC&icon_color=00d4aa&text_color=e2e8f0&rank_icon=github"/>
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoEdreiraPenas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B42BC&text_color=e2e8f0&langs_count=6"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoEdreiraPenas&theme=tokyonight&hide_border=true&background=0d1117&ring=7B42BC&fire=00d4aa&currStreakLabel=e2e8f0" />
-</div>
-
----
-
-## 🚀 Proyecto Destacado
+<br/>
 
 <div align="center">
 
-[![Guia Terraform Card](https://github-readme-stats.vercel.app/api/pin/?username=RicardoEdreiraPenas&repo=Guia-estudio-terraform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B42BC&icon_color=00d4aa&text_color=e2e8f0)](https://github.com/RicardoEdreiraPenas/Guia-estudio-terraform)
-
-**🔗 [Ver la guía publicada →](https://ricardoedreirapenas.github.io/Guia-estudio-terraform)**
+<img src="https://streak-stats.demolab.com?user=RicardoEdreiraPenas&theme=tokyonight&hide_border=true&background=0d1117&ring=7B42BC&fire=00d4aa&currStreakLabel=e2e8f0&dates=64748b&sideLabels=7B42BC&sideNums=00d4aa" width="60%"/>
 
 </div>
 
----
-
-## 📜 Certificaciones
+<br/>
 
 <div align="center">
 
-| 🏆 Certificación | 🏫 Emisor |
-|-----------------|----------|
-| Getting Started with Artificial Intelligence | IBM |
-| Data Classification and Summarization using IBM Granite | IBM |
-| IA Workflow | BIG School |
-| Big Data en Transporte | Fundación Maude |
-| Big Data y Business Intelligence | Aprendea |
-| ChatGPT e Inteligencia Artificial | FEMXA |
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 </div>
 
----
+## 🚀 &nbsp; Proyecto Destacado
+
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+| 🏗️ &nbsp; **Guía Visual de Terraform desde Cero** | |
+|---|---|
+| Infografía web interactiva para aprender IaC con Terraform desde cero | [![Repo](https://img.shields.io/badge/GitHub-Ver_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RicardoEdreiraPenas/Guia-estudio-terraform) |
+| 11 módulos · Plan de estudio 8 semanas · Ejemplos reales en AWS | [![Web](https://img.shields.io/badge/Live-Ver_Online-00d4aa?style=for-the-badge&logo=githubpages&logoColor=white)](https://ricardoedreirapenas.github.io/Guia-estudio-terraform) |
+| `HTML` &nbsp; `IaC` &nbsp; `AWS` &nbsp; `HCL` &nbsp; `Terraform` &nbsp; `DevOps` | 🌐 Publicado en GitHub Pages |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+</div>
+
+## 📜 &nbsp; Certificaciones
+
+<br/>
+
+<div align="center">
+
+| 🏆 | Certificación | Emisor |
+|:---:|---|:---:|
+| 🤖 | Getting Started with Artificial Intelligence | ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white) |
+| 🧠 | Data Classification and Summarization using IBM Granite | ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white) |
+| ⚙️ | IA Workflow | BIG School |
+| 🚌 | Big Data en Transporte | Fundación Maude |
+| 📈 | Big Data y Business Intelligence | Aprendea |
+| 💬 | ChatGPT e Inteligencia Artificial | FEMXA |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+<br/>
+
+### 💬 &nbsp; *"Transformando datos en decisiones estratégicas"*
+
+<br/>
+
+[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=00d4aa&center=true&vCenter=true&width=500&lines=Gracias+por+visitar+mi+perfil+👋;¡No+dudes+en+contactarme!+📬;Siempre+aprendiendo+y+construyendo+🚀)](https://git.io/typing-svg)
+
+<br/>
+
+![wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
 </div>
