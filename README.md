@@ -10,7 +10,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Conéctemos)](https://www.linkedin.com/in/ricardoedreira)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Escríbeme)](mailto:1ricardox@gmail.com)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Escríbeme)](mailto:data@ricardoedreira.com)
 [![Portfolio](https://img.shields.io/badge/GitHub%20Pages-7B42BC?style=for-the-badge&logo=githubpages&logoColor=white&label=Portfolio)](https://ricardoedreirapenas.github.io/Guia-estudio-terraform)
 [![Visitas](https://komarev.com/ghpvc/?username=RicardoEdreiraPenas&style=for-the-badge&color=00d4aa&label=Visitas)](https://github.com/RicardoEdreiraPenas)
 
