@@ -54,7 +54,7 @@ Me gusta entender qué hay detrás de cada número. Lo aprendí coordinando **45
 <td width="50%" valign="top">
 
 ### 🚚 [Centro Logístico](https://github.com/RicardoEdreiraPenas/centro-logistico)
-Pipeline **end-to-end en AWS** que simula un centro logístico real: camiones, pedidos con palets y peso, 10 muelles y seguimiento en tiempo real. **28 tests.**
+Pipeline **end-to-end en AWS** que simula un centro logístico real: camiones, pedidos con palets y peso, 10 muelles y seguimiento en tiempo real. **28 tests con CI en GitHub Actions.**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQS](https://img.shields.io/badge/SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white)
@@ -67,7 +67,9 @@ Pipeline **end-to-end en AWS** que simula un centro logístico real: camiones, p
 <td width="50%" valign="top">
 
 ### 🚲 [Valenbisi Data Pipeline](https://github.com/RicardoEdreiraPenas/valenbisi-data-pipeline)
-Pipeline en **tiempo real** sobre la bici compartida de Valencia: API de datos abiertos cada 5 min → **MongoDB** (raw) y **PostgreSQL** → **dbt** → mapa interactivo. Arranca con un solo `docker compose up`.
+Pipeline en **tiempo real** sobre la bici compartida de Valencia: las 273 estaciones cada 5 min desde los datos abiertos del Ayuntamiento → **MongoDB** (raw) y **PostgreSQL** → **dbt** → mapa interactivo. Arranca con un solo `docker compose up`.
+
+<a href="https://github.com/RicardoEdreiraPenas/valenbisi-data-pipeline"><img src="https://raw.githubusercontent.com/RicardoEdreiraPenas/valenbisi-data-pipeline/main/docs/mapa.jpg" alt="Mapa de las estaciones de Valenbisi" width="100%"/></a>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
