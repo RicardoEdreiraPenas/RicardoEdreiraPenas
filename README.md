@@ -53,7 +53,7 @@ Me gusta entender qué hay detrás de cada número. Lo aprendí coordinando **45
 <tr>
 <td width="50%" valign="top">
 
-### 🚚 [Centro Logístico](https://github.com/RicardoEdreiraPenas/Centro-Logistico)
+### 🚚 [Centro Logístico](https://github.com/RicardoEdreiraPenas/centro-logistico)
 Pipeline **end-to-end en AWS** que simula un centro logístico real: camiones, pedidos con palets y peso, 10 muelles y seguimiento en tiempo real. **28 tests.**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -62,6 +62,33 @@ Pipeline **end-to-end en AWS** que simula un centro logístico real: camiones, p
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚲 [Valenbisi Data Pipeline](https://github.com/RicardoEdreiraPenas/valenbisi-data-pipeline)
+Pipeline en **tiempo real** sobre la bici compartida de Valencia: API de datos abiertos cada 5 min → **MongoDB** (raw) y **PostgreSQL** → **dbt** → mapa interactivo. Arranca con un solo `docker compose up`.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Dash](https://img.shields.io/badge/Dash-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎧 [Streaming de pódcast en GCP](https://github.com/RicardoEdreiraPenas/podcast-streaming-pipeline-gcp)
+Pipeline de **streaming con Apache Beam en Dataflow**: une tres flujos de Pub/Sub, calcula métricas con ventanas de sesión y deslizantes, y genera notificaciones personalizadas. Despliegue con **Cloud Build**.
+
+![Apache Beam](https://img.shields.io/badge/Apache_Beam-F26B21?style=flat-square&logo=apache&logoColor=white)
+![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Pub/Sub](https://img.shields.io/badge/Pub%2FSub-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 </td>
 <td width="50%" valign="top">
