@@ -79,7 +79,7 @@ Pipeline en **tiempo real** sobre la bici compartida de Valencia: API de datos a
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ### 🎧 [Streaming de pódcast en GCP](https://github.com/RicardoEdreiraPenas/podcast-streaming-pipeline-gcp)
 Pipeline de **streaming con Apache Beam en Dataflow**: une tres flujos de Pub/Sub, calcula métricas con ventanas de sesión y deslizantes, y genera notificaciones personalizadas. Despliegue con **Cloud Build**.
@@ -91,10 +91,30 @@ Pipeline de **streaming con Apache Beam en Dataflow**: une tres flujos de Pub/Su
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 </td>
+</tr>
+</table>
+
+### 🤝 &nbsp;Proyectos en equipo · Máster EDEM
+
+<table>
+<tr>
 <td width="50%" valign="top">
 
-### 🗺️ CloudRISK · Data Project 2
-Plataforma **100 % serverless en GCP** con datos en tiempo real, infraestructura con Terraform y CI/CD. Equipo de 5: **mi parte, el frontend React + MapLibre 3D.**
+### 🌍 [AirWatch London · Data Project 1](https://github.com/aishadeltio13/DataProject1)
+Monitorización de la **calidad del aire en Londres** con datos en tiempo real e históricos de las APIs de WAQI y OpenAQ, PostgreSQL y dbt. Equipo de 4. **Mi parte:** las **alertas por Telegram** cuando se superan los límites de la OMS y el **mapa interactivo** con Dash y Plotly.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Dash](https://img.shields.io/badge/Dash-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🗺️ [CloudRISK · Data Project 2](https://github.com/alvarogimenezc/DATA-PROJECT-2-EDEM)
+Juego de estrategia **tipo Risk sobre los 87 barrios de Valencia**: los pasos reales se convierten en tropas con un pipeline de streaming **100 % serverless en GCP**, con Terraform y CI/CD. Equipo de 5. **Mi parte:** el frontend React + MapLibre 3D.
 
 ![Pub/Sub](https://img.shields.io/badge/Pub%2FSub-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
@@ -109,7 +129,7 @@ Plataforma **100 % serverless en GCP** con datos en tiempo real, infraestructura
 <td width="50%" valign="top">
 
 ### 🛒 Tienda · Data Project 3
-**Producto de datos end-to-end** con modelos dbt, API y frontend desplegados en Google Cloud. **Mi parte:** frontend, integración con la API, ajustes en dbt y despliegue.
+**Producto de datos end-to-end** con modelos dbt, API y frontend desplegados en Google Cloud. Equipo de 5. **Mi parte:** frontend, integración con la API, ajustes en dbt y despliegue.
 
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
