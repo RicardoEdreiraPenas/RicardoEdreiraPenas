@@ -14,7 +14,7 @@
 [![Terraform guide](https://img.shields.io/badge/Gu%C3%ADa_Terraform-Ver_online-7B42BC?style=for-the-badge&logo=githubpages&logoColor=white)](https://ricardoedreirapenas.github.io/Guia_terraform/)
 
 ![Valencia](https://img.shields.io/badge/📍_Valencia-Disponible_en_toda_España-142f57?style=flat-square)
-![Disponibilidad](https://img.shields.io/badge/✅_Disponibilidad-Inmediata-2ea44f?style=flat-square)
+![Oportunidades](https://img.shields.io/badge/✅_Abierto_a-nuevas_oportunidades-2ea44f?style=flat-square)
 ![Idiomas](https://img.shields.io/badge/🗣️_Idiomas-Español_·_Inglés_B2-f2c318?style=flat-square)
 
 <br/>
@@ -36,7 +36,7 @@ class RicardoEdreira:
     formacion  = "Máster en Big Data y Cloud (Analytics & Data Engineering) — EDEM, 2025-2026"
     experiencia = ["Análisis de datos", "Operaciones logísticas", "Administración pública"]
     fortalezas = ["Visión de negocio", "Trabajo bajo presión", "Equipos multidisciplinares"]
-    disponible = True   # ✅ Inmediata · toda España
+    abierto_a  = "Nuevas oportunidades en datos y operaciones · toda España"
     idiomas    = {"Español": "Nativo", "Inglés": "B2"}
 
     def contactar(self):
@@ -67,7 +67,7 @@ Pipeline **end-to-end en AWS** que simula un centro logístico real: camiones, p
 <td width="50%" valign="top">
 
 ### 🚲 [Valenbisi Data Pipeline](https://github.com/RicardoEdreiraPenas/valenbisi-data-pipeline)
-Pipeline en **tiempo real** sobre la bici compartida de Valencia: las 273 estaciones cada 5 min desde los datos abiertos del Ayuntamiento → **MongoDB** (raw) y **PostgreSQL** → **dbt** → mapa interactivo. Arranca con un solo `docker compose up`.
+Pipeline en **tiempo real** sobre la bici compartida de Valencia: las 273 estaciones cada 5 min desde los datos abiertos del Ayuntamiento → **MongoDB** (raw) y **PostgreSQL** → **dbt** → mapa interactivo. Arranca con Docker Compose, con credenciales obligatorias y bases de datos accesibles solo en local.
 
 <a href="https://github.com/RicardoEdreiraPenas/valenbisi-data-pipeline"><img src="https://raw.githubusercontent.com/RicardoEdreiraPenas/valenbisi-data-pipeline/main/docs/mapa.jpg" alt="Mapa de las estaciones de Valenbisi" width="100%"/></a>
 
@@ -158,7 +158,7 @@ Proyecto de datos en equipo sobre un **reto real planteado por QUANTIA Ingenier�
 | 🍳 | **[cocina-3d](https://github.com/RicardoEdreiraPenas/cocina-3d)** · **[sala-3d](https://github.com/RicardoEdreiraPenas/sala-3d)** | Configuradores 3D en el navegador para diseñar estancias con medidas reales | `JavaScript` `Three.js` `WebGL` |
 | 🏗️ | **[Guía visual de Terraform](https://ricardoedreirapenas.github.io/Guia_terraform/)** | Web interactiva de 11 módulos y plan de estudio de 8 semanas sobre IaC | `Terraform` `AWS` `HTML` |
 | 🎮 | **[Operación Commando](https://github.com/RicardoEdreiraPenas/operacion-commando)** | Videojuego retro con 5 mundos, vehículos y jefes finales, sin librerías | `JavaScript` `Canvas` |
-| 🔐 | **[Tailscale exit node ARM64](https://github.com/RicardoEdreiraPenas/tailscale-exit-node-arm64)** | Despliegue automatizado de un nodo VPN en Raspberry Pi | `Linux` `Tailscale` `ARM64` |
+| 🔐 | **[Tailscale exit node ARM64](https://github.com/RicardoEdreiraPenas/tailscale-exit-node-arm64)** | Nodo VPN doméstico en Raspberry Pi, endurecido: cortafuegos, descargas verificadas, bloqueo de anuncios por DNS y pruebas automáticas en CI | `Bash` `Linux` `systemd` `Tailscale` |
 
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/></div>
 
@@ -206,15 +206,18 @@ Proyecto de datos en equipo sobre un **reto real planteado por QUANTIA Ingenier�
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
+#### 🛠️ En proyectos
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 #### 🌱 Nociones
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 #### 🤖 IA aplicada
 
