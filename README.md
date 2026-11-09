@@ -49,6 +49,16 @@ Me gusta entender qué hay detrás de cada número. Lo aprendí coordinando **45
 
 ## 🚀 &nbsp;Proyectos destacados
 
+### 🚌 [EMT València Smart Display](https://github.com/RicardoEdreiraPenas/emt-valencia-smart-display) · [▶ demo](https://ricardoedreirapenas.github.io/emt-valencia-smart-display/)
+Pantalla táctil con las **llegadas de autobús en tiempo real** y aviso por voz cuando toca salir de casa. Un **ESP32** con pantalla TFT consume un proxy propio que limpia y normaliza los datos de la EMT, con dos despliegues: servidor **Flask** en casa o **Cloudflare Workers** sin hardware. Versión web en **React**, tests y CI.
+
+<a href="https://github.com/RicardoEdreiraPenas/emt-valencia-smart-display"><img src="https://raw.githubusercontent.com/RicardoEdreiraPenas/emt-valencia-smart-display/main/docs/img/portada.png" alt="EMT València Smart Display" width="100%"/></a>
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Python](https://img.shields.io/badge/Flask-3776AB?style=flat-square&logo=python&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -81,7 +91,17 @@ Pipeline en **tiempo real** sobre la bici compartida de Valencia: las 273 estaci
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
+
+### 📊 [Valenbisi · Análisis de redistribución](https://github.com/RicardoEdreiraPenas/valenbisi-analisis-redistribucion)
+Análisis para **operaciones**: qué estaciones se vacían o se llenan, cuándo, y cómo planificar la redistribución de bicis. Recolector serverless en **GitHub Actions** y consultas **SQL con DuckDB**. *En curso: recogiendo histórico desde octubre de 2026.*
+
+![SQL](https://img.shields.io/badge/SQL-DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🎧 [Streaming de pódcast en GCP](https://github.com/RicardoEdreiraPenas/podcast-streaming-pipeline-gcp)
 Pipeline de **streaming con Apache Beam en Dataflow**: une tres flujos de Pub/Sub, calcula métricas con ventanas de sesión y deslizantes, y genera notificaciones personalizadas. Despliegue con **Cloud Build**.
