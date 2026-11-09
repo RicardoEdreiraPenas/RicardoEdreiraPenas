@@ -94,7 +94,7 @@ Pipeline en **tiempo real** sobre la bici compartida de Valencia: las 273 estaci
 <td width="50%" valign="top">
 
 ### 📊 [Valenbisi · Análisis de redistribución](https://github.com/RicardoEdreiraPenas/valenbisi-analisis-redistribucion)
-Análisis para **operaciones**: qué estaciones se vacían o se llenan, cuándo, y cómo planificar la redistribución de bicis. Recolector serverless en **GitHub Actions** y consultas **SQL con DuckDB**. *En curso: recogiendo histórico desde octubre de 2026.*
+Análisis para **operaciones** con 53.000 lecturas de las 273 estaciones: el desequilibrio es un péndulo diario entre el Marítim y las universidades, el peor momento es la madrugada, y una propuesta de **redistribución nocturna** con traslados concretos. Recolector serverless en **GitHub Actions** y **SQL con DuckDB**.
 
 ![SQL](https://img.shields.io/badge/SQL-DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
